@@ -1,5 +1,5 @@
-(ns oiler.problem4
-  (:use oiler.templateFns))
+(ns oiler_lulz.problem4
+  (:use oiler_lulz.template_fns))
 
 (def palindrome? [n]        ;; yields true is n is a palindrome
   (= (seq (str n)) (reverse (str n))))

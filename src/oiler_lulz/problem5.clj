@@ -1,5 +1,5 @@
-(ns oiler.problem5
-  (:use oiler.templateFns))
+(ns oiler_lulz.problem5
+  (:use oiler_lulz.template_fns))
 
 (defn f-div-by [ns ds]        ;; find first no in ns divisible by all(ds)
   (if (seq ns)

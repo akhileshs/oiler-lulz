@@ -1,5 +1,5 @@
-(ns oiler.problem6
-  (:use oiler.templateFns))
+(ns oiler_lulz.problem6
+  (:use oiler_lulz.template_fns))
 
 (defn sum-of-squares [ns]         ;; return sum of squares of nos in collection
   (reduce + (map sqr (ns))))

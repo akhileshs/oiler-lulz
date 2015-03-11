@@ -1,5 +1,5 @@
-(ns oiler.problem10
-  (:use oiler.templateFns))
+(ns oiler_lulz.problem10
+  (:use oiler_lulz.template_fns))
 
 (defn primes-below-limit
   "get a list of all primes below a threshold limit, > 3."

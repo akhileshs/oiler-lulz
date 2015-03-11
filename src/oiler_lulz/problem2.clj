@@ -1,5 +1,5 @@
-(ns oiler.problem2
-  (:use oiler.templateFns))
+(ns oiler_lulz.problem2
+  (:use oiler_lulz.template_fns))
 
 (defn fib-range [max]
   (cond

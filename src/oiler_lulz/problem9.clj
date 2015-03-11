@@ -1,5 +1,5 @@
-(ns oiler.problem9
-  (:use oiler.templateFns))
+(ns oiler_lulz.problem9
+  (:use oiler_lulz.template_fns))
 
 (defn pythagorean-triplet? [triplet]
   "true if a^2 + b^2 = c^2"

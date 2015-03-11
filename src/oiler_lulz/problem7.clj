@@ -1,5 +1,5 @@
-(ns oiler.problem7
-  (:use oiler.templateFns))
+(ns oiler_lulz.problem7
+  (:use oiler_lulz.template_fns))
 
 (defn next-prime [n]
   "returns next prime after n"
